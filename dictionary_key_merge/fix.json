@@ -1,0 +1,5 @@
+{
+    "a": ["a", "aa"],
+    "b_but_key_renamed": ["b", "bb"],
+    "new_fix": ["previous_fix", "non_existant_new_word", "variation_of_previous_fix"]
+}

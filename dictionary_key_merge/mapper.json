@@ -1,0 +1,10 @@
+{
+    "other_keys_that_doesnt_need_fix": ["other1", "other2", "other3", "টানাহিঁচড়া"],
+    "another_key_that_dont_need_fix": ["another1", "another2", "another3"],
+    "a": ["a1", "a2", "a3"],
+    "aa": ["aa1", "aa2", "aa3"],
+    "b": ["b1", "b2", "b3"],
+    "bb": ["bb1", "bb2", "bb3"],
+    "previous_fix": ["old_key1", "old_val1"],
+    "variation_of_previous_fix": ["old_key2", "old_val2"]
+}
